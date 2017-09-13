@@ -41,6 +41,7 @@ main:
 {
 	run , %Browser% %Banksite%			;run browser with bank URL
 	windowwaiting(LogonWin)				;wait for browser to load URL
+	enterCredentials()		;redacted
 	send , {enter}						;when loaded, press {enter} to logon
 	windowwaiting(HomeWin)				;wait for browser to logon
 	send , ^a							;select all the text in the page
