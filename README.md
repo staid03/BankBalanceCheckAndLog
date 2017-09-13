@@ -2,7 +2,7 @@
 Personalised script to check and log my current bank balance. All details redacted.<br>
 <br>
 Note: Identifying bank details have been removed.<br>
-		This is a personal use script uploaded to demonstrate my coding.<br>
+		This is a personal use script uploaded to demonstrate some of my code.<br>
 		This was created in about 90 mins this morning (13th September 2017)<br>
 		after I woke up.<br>
 		I was thinking about a problem, last week, where I wanted to be able<br>
