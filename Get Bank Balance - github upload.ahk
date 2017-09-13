@@ -53,7 +53,7 @@ main:
 	balance := getbalance(extractf, primaryAccount)		;get balance of concerned account
 	logmessage = Balance is %balance%		;create message for log file with balance in it
 	loginfo(logmessage)						;log balance to log file
-	msgbox ,,, balance1 is %balance% , 5	;display balance on screen
+	msgbox ,,, Balance is %balance% , 5	;display balance on screen
 }
 return
 
